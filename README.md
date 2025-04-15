@@ -7,3 +7,6 @@ Bármire, amíg nem aggresszívan ctrl + c/v kombózod a kódot és a te neved a
 ## Ismert hibák a kódban: 
 - [ ] A plot ábrázolás nem konzisztens, valahol a matplotlibet használom, valahol a pandas-t. Ez nem egyértelmű és rossz struktúrát ad a kódnak. Ugyanitt, ahol pandas-t használtam, bután megvalósított dictionaryt használtam közbe, ami tök sok plusz sor. 
 - [ ] Fene tudja mi az a KDE? Hogyan tudom megjeleníteni? 
+- [ ] A színeket egységesíteni kéne a 2.8as feladatnál, mert az egyik eloszlás diagrammon nem darkorange és steelblue van
+- [ ] A tengelycímeket szépen kéne elnevezni :)
+- [ ] A kód többször másolja a sampled_data-t mint indokolt volna -> magasabb RAM fogyasztás 
